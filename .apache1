@@ -1,0 +1,4 @@
+# Enable HTTP/2
+<IfModule mod_http2.c>
+    Protocols h2 http/1.1
+</IfModule>
