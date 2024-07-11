@@ -1,0 +1,13 @@
+/* CSS Media Query for Mobile Devices */
+@media only screen and (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+}
+
+/* CSS Media Query for Tablets and Desktops */
+@media only screen and (min-width: 769px) {
+    body {
+        font-size: 16px;
+    }
+}
